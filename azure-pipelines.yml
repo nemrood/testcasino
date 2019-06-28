@@ -11,7 +11,7 @@ pool:
 
 variables:
   phpVersion: 7.2
-  azureSubscription: exit
+  serviceConnectionToAzure: exit
   appName: apptestx
 
 steps:
